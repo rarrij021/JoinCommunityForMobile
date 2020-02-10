@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+  }
+  /* common styles */
+  /*.cm {
+    margin: 25px 15px;
+  }*/
+ /* h2 {
+    font-size: 1.2rem;
+  }*/
+  /* join our community styles */
+  .joc {
+     background-color: snow; 
+     margin: 20px 25px;
+  }
+  .joc h1 {
+    color: hsl(179, 62%, 43%);
+    margin-bottom: 1.3rem;
+  }
+  .joc h2 {
+    color: hsla(71, 73%, 54%, 0.856);
+    margin-bottom: 1.3rem;
+  }
+  .joc p {
+    max-width: 95%;
+    color: rgb(172, 171, 171);
+  }
+  .ms{
+    background-color:  hsl(179, 62%, 43%);
+}
+
+.ms h2{
+    color:hsla(0, 100%, 100%, 0.849);
+    padding: 20px 15px 15px 25px;
+  }
+
+span{color: white;
+font-size: 25px;
+margin:0px 0px 10px 0px;
+}
+
+button{
+    padding: 10px 50px;
+background-color:hsla(71, 73%, 54%, 0.856);
+color: #ffffff;
+margin: 10px 10px 20px 20px ;
+border: none;
+border-radius: 8px;
+width: 200px;
+}
+
+.ms p{
+    color:hsla(203, 44%, 93%, 0.774) ;
+    margin: 0px 20px 10px 25px;
+}
+
+.why-us{
+  background-color: rgba(1, 160, 165, 0.712) ;
+  padding-bottom: 20px;
+}
+.why-us h2{
+  padding: 20px 20px 10px 20px;
+  color:hsla(0, 0%, 100%, 0.849);
+}
+.why-us p{
+  padding-left:20px;
+  color:hsla(203, 44%, 93%, 0.774);
+
+}
